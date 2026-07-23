@@ -1,7 +1,7 @@
 -- ══════════════════════════════════════════
 -- TechStore — Consultas Básicas SELECT
--- Autor: [Tu nombre]
--- Fecha: [Fecha de entrega]
+-- Autor: [Viñazca Gustavo]
+-- Fecha: [23-07-2026]
 -- ══════════════════════════════════════════
 
 -- Para el primer caso usamos  SELECT * para traer todas las columnas de una tabla y dar un vistazo general a la misma
